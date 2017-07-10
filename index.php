@@ -26,11 +26,10 @@
 
 	<!-- Body -->
 	<body>
-        <section id="head">
 		
 		<!-- Header -->
-		<header>
-			<a href="#head"><img  id="logo" alt="logo" src="img/logo_believe.png"/></a>
+		<header id="header">
+			<a href="#header"><img  id="logo" alt="logo" src="img/logo_believe.png"/></a>
 			<nav>
 				<ul>
 					<li><a href="#section_about">À Propos</a></li>
@@ -93,8 +92,7 @@
     				<h1><span class="first_word">À</span><span class="second_word">Propos</span></h1>
     				<h2 id="title_home">BELIEVE IT est une société de service informatique basée à Montpellier, créée par et pour des développeurs.</h2>
     				<p>BELIEVE IT c’est une SSII créée dans un but précis : conserver tous les avantages d’une SSII traditionnelle, et en gommer les défauts. </br></br>
-					Les avantages des SSII : c’est un formidable centre de formations pour acquérir des compétences techniques très variées, via un changement régulier de missions, et donc de contexte technique et métiers différents.</br></br>
-                    Les défauts des SSII, pour cela il suffit de cliquer sur <a href="https://www.linkedin.com/pulse/super-d%C3%A9veloppeurs-j2ee-ou-net-web-fullstack-alexandre-michel" target="_blank">nos annonces d'emploi</a></p>
+					Les avantages des SSII : c’est un formidable centre de formations pour acquérir des compétences techniques très variées, via un changement régulier de missions, et donc de contexte technique et métiers différents.</p>
     			</div>
     			<div class="col-md-6">
     				<img src="img/img1.jpg" alt="macbook" id="img_about"/>
@@ -534,6 +532,5 @@
 	<script src="js/jssor.slider-24.1.5.min.js" type="text/javascript"></script>
 	<script src="js/slide.js"></script>
 	<script type="text/javascript">jssor_1_slider_init();</script>
-    </section>
 	</body>
 </html>
